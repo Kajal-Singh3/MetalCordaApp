@@ -1,0 +1,814 @@
+[INFO ] 2021-12-24T04:34:44,543Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\contracts ... {}
+[INFO ] 2021-12-24T04:34:44,680Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:46,231Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2021-12-24T04:34:48,645Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:34:48,666Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2021-12-24T04:34:48,666Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:49,551Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:49,587Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:34:50,268Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:50,268Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:50,268Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:34:50,494Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:50,514Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:51,487Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:34:51,954Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:51,970Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:34:52,019Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:52,019Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:34:52,019Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:53,223Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:53,223Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:34:53,381Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:53,381Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:34:53,430Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:53,430Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:34:53,578Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:53,578Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:53,779Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:53,813Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:53,895Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:34:53,989Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:53,989Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:34:54,005Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:54,039Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:34:54,039Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:54,065Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:54,066Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:34:54,080Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:54,080Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:34:54,080Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:54,081Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:54,095Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:54,126Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:54,142Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:54,158Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:54,158Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:34:57,746Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:57,795Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:57,797Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':contracts' {}
+[INFO ] 2021-12-24T04:34:57,797Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:57,812Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:57,894Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:34:57,897Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:57,986Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:34:58,287Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\workflows ... {}
+[INFO ] 2021-12-24T04:34:58,289Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:58,299Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:34:58,301Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:34:58,333Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:58,333Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:34:58,334Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:58,334Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,334Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:34:58,352Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,352Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:58,368Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:34:58,504Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:58,504Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:34:58,535Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:58,536Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:34:58,542Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:34:58,614Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,614Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:34:58,629Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,629Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:34:58,629Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,629Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:34:58,646Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:34:58,646Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:34:58,706Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,734Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:58,734Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:34:58,818Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:58,818Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:34:58,818Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,834Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:34:58,835Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,835Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:58,851Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:58,883Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:58,883Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:58,904Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:58,904Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:58,905Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:34:58,935Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:34:58,967Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:34:58,968Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:34:58,968Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:34:59,002Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2021-12-24T04:34:59,002Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:34:59,011Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:59,012Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2021-12-24T04:34:59,043Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:59,043Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2021-12-24T04:34:59,045Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:59,045Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,045Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2021-12-24T04:34:59,091Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,091Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:34:59,091Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,091Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:34:59,092Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:34:59,106Z [Connection worker] internal.TestCordappImpl. - Clean stale outputs {}
+[INFO ] 2021-12-24T04:34:59,106Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:35:00,923Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:35:00,957Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:35:00,958Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2021-12-24T04:35:00,958Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:35:00,959Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:35:01,050Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:35:01,051Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:35:01,097Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:35:04,853Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-043443.385-72F83C340716A692\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:35:04,857Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043443.385-72F83C340716A692/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043443.385-72F83C340716A692/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:35:04,871Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043443.385-72F83C340716A692/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:35:04,947Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043443.385-72F83C340716A692/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:35:05,461Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:35:05,569Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:35:05,612Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:35:05,644Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:35:05,651Z [main] internal.KeyStoreHandler. - Loaded node identity key: DL3iaiRK2rk4jrUtjXcpBU8vFWSRm8m43avVhasRuJaJaR, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:35:05,755Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:35:05,755Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:35:06,026Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-043505.763-359F7FF87027B125\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:35:06,027Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043505.763-359F7FF87027B125/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043505.763-359F7FF87027B125/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:35:06,028Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043505.763-359F7FF87027B125/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:35:06,045Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043505.763-359F7FF87027B125/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:35:06,098Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:35:06,106Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:35:06,108Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:35:06,125Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:35:06,126Z [main] internal.KeyStoreHandler. - Loaded node identity key: DL2ffXfSRrJKdyR73JhLNYXjCNP3UTHvBkJbqv5mwzcybH, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:35:06,139Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:35:06,140Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:36:50,871Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\contracts ... {}
+[INFO ] 2021-12-24T04:36:50,972Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:52,208Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:36:52,225Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:52,278Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:52,278Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:36:52,279Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:52,279Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,279Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:36:52,279Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,279Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:52,309Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:36:52,403Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:52,403Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:36:52,452Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:52,453Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:36:52,453Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:52,534Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,535Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:36:52,535Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,535Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:36:52,550Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,550Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:36:52,568Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:52,568Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:52,568Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:52,583Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:52,598Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:36:52,647Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:52,647Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:36:52,663Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:52,686Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:36:52,686Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:52,701Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:52,702Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:52,755Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:52,755Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:52,755Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:52,755Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:52,771Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:52,773Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:52,773Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:52,773Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:52,773Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:36:54,586Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:54,602Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:54,603Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':contracts' {}
+[INFO ] 2021-12-24T04:36:54,603Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:54,611Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:54,664Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:36:54,664Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:54,717Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:36:55,052Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\workflows ... {}
+[INFO ] 2021-12-24T04:36:55,055Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:55,066Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:36:55,067Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:55,105Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:55,105Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:36:55,105Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:55,105Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,106Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:36:55,106Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,106Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:55,136Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:36:55,236Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:55,236Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:36:55,266Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:55,303Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:36:55,303Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:36:55,415Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,415Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:36:55,415Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,415Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:36:55,434Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,435Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:36:55,435Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:36:55,435Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:55,483Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,483Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:55,499Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:36:55,562Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:55,567Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:36:55,567Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:55,579Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,584Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:55,624Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,624Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,640Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,641Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:36:55,656Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,656Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:36:55,687Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:36:55,687Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:36:55,687Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:36:55,687Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:36:55,720Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2021-12-24T04:36:55,720Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:36:55,720Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,720Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2021-12-24T04:36:55,753Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,754Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2021-12-24T04:36:55,754Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,754Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,754Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2021-12-24T04:36:55,768Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,768Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:36:55,783Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,783Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:36:55,784Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,784Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:36:55,784Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,784Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:36:55,784Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:36:55,785Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:55,785Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:36:58,291Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:36:58,319Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:58,319Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2021-12-24T04:36:58,319Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:36:58,321Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:58,349Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:36:58,374Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:36:58,424Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:37:01,406Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-043650.097-20D5F75B792596DF\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:37:01,411Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043650.097-20D5F75B792596DF/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043650.097-20D5F75B792596DF/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:37:01,415Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043650.097-20D5F75B792596DF/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:37:01,487Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043650.097-20D5F75B792596DF/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:37:01,922Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:37:02,029Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:37:02,063Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:37:02,096Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:37:02,100Z [main] internal.KeyStoreHandler. - Loaded node identity key: DLGR7fHgepGN83FguFxiedEJ18unNLwHZxV5CjAvgE3Dy5, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:37:02,170Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:37:02,170Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:37:02,412Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-043702.184-23E798AF1DE4B5CB\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:37:02,413Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043702.184-23E798AF1DE4B5CB/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043702.184-23E798AF1DE4B5CB/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:37:02,413Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043702.184-23E798AF1DE4B5CB/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:37:02,428Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-043702.184-23E798AF1DE4B5CB/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:37:02,474Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:37:02,475Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:37:02,475Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:37:02,502Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:37:02,503Z [main] internal.KeyStoreHandler. - Loaded node identity key: DL4nR5u3L21PhtYBj3Ji1kP6B69E3ii8SKJxAuJC9QodJS, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:37:02,518Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:37:02,518Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:44:11,237Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\contracts ... {}
+[INFO ] 2021-12-24T04:44:11,493Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:13,023Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:44:13,037Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:13,093Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:13,093Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:44:13,093Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:13,093Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,094Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:44:13,094Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,094Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:13,109Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:44:13,199Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:13,200Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:44:13,200Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:13,200Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:44:13,200Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:13,308Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,319Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:44:13,319Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,319Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:44:13,340Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,341Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:44:13,341Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:13,341Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:13,364Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:13,378Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:13,393Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:44:13,443Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:13,443Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:44:13,443Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:13,476Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:13,477Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:13,509Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:13,509Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:13,525Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:13,525Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:13,525Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:13,543Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:13,543Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:13,543Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:13,544Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:44:15,729Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:15,729Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:15,730Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':contracts' {}
+[INFO ] 2021-12-24T04:44:15,731Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:15,739Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:15,805Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:44:15,805Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:15,878Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:44:16,270Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\workflows ... {}
+[INFO ] 2021-12-24T04:44:16,272Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:16,283Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:44:16,286Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,326Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:16,342Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:44:16,461Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:16,461Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:44:16,461Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:16,461Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:44:16,461Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:44:16,530Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,530Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:44:16,556Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,556Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:44:16,556Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,556Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:44:16,558Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:44:16,558Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:16,571Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,588Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:16,588Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:44:16,663Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:16,664Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:44:16,664Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:16,680Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:44:16,680Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:44:16,680Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,680Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:44:16,681Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,681Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:44:16,681Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,681Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,681Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,737Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:44:16,738Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,738Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:44:16,774Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:44:16,796Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:44:16,796Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:44:16,796Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:44:16,830Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2021-12-24T04:44:16,830Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:44:16,830Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,830Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2021-12-24T04:44:16,850Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,853Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2021-12-24T04:44:16,853Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,853Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,853Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2021-12-24T04:44:16,877Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,877Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:16,878Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:44:18,720Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:44:18,739Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:18,739Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2021-12-24T04:44:18,739Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:44:18,740Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:18,814Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:44:18,815Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:44:18,854Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:44:21,709Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-044410.385-0A533E1287C0CB34\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:44:21,713Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044410.385-0A533E1287C0CB34/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044410.385-0A533E1287C0CB34/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:44:21,720Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044410.385-0A533E1287C0CB34/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:44:21,782Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044410.385-0A533E1287C0CB34/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:44:22,213Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:44:22,295Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:44:22,346Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:44:22,367Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:44:22,367Z [main] internal.KeyStoreHandler. - Loaded node identity key: DLHuSuKVpbFdqosP3tPwcsLMPkGiBKE5WAJ55qDgtokp4k, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:44:22,449Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:44:22,450Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:44:22,747Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-044422.470-93D6834879FC998B\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:44:22,748Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044422.470-93D6834879FC998B/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044422.470-93D6834879FC998B/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:44:22,748Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044422.470-93D6834879FC998B/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:44:22,785Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-044422.470-93D6834879FC998B/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:44:22,840Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:44:22,850Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:44:22,863Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:44:22,879Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:44:22,880Z [main] internal.KeyStoreHandler. - Loaded node identity key: DL21LrE4SrbsAN97kaURPW1ay89AFXpFWm1SPuJ1u9qsqu, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:44:22,898Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:44:22,898Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:52:01,630Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\contracts ... {}
+[INFO ] 2021-12-24T04:52:01,876Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:03,202Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:52:03,217Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,271Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:03,286Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:52:03,350Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:03,350Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:52:03,365Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:03,365Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:52:03,366Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:03,477Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,478Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:52:03,492Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,492Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:52:03,508Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,508Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:52:03,545Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:03,546Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:03,546Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:03,562Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:03,577Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:52:03,660Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:03,660Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:52:03,660Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:03,693Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:03,755Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:03,755Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:03,798Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:03,798Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:03,799Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:03,799Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:03,799Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:03,799Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:03,799Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:52:05,684Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:05,706Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:05,707Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':contracts' {}
+[INFO ] 2021-12-24T04:52:05,708Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:05,715Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:05,760Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:52:05,760Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:05,825Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:52:06,136Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\workflows ... {}
+[INFO ] 2021-12-24T04:52:06,136Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:06,148Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:52:06,150Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:06,182Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:06,182Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:52:06,182Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:06,182Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,183Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:52:06,183Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,184Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:06,197Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:52:06,271Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:06,271Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:52:06,271Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:06,271Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:52:06,272Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:52:06,332Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,332Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:52:06,362Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:06,408Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,409Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:06,410Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:52:06,502Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:06,502Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:52:06,502Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:06,517Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:52:06,517Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:52:06,518Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,518Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:52:06,518Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,519Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:52:06,519Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,519Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,519Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,556Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:52:06,557Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,557Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,574Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:52:06,578Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,578Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:52:06,620Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:52:06,661Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:52:06,663Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:52:06,663Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:52:06,702Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2021-12-24T04:52:06,703Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:52:06,704Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,705Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2021-12-24T04:52:06,731Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,731Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2021-12-24T04:52:06,731Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,731Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,731Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2021-12-24T04:52:06,763Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,763Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:52:06,763Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:52:06,766Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:52:06,767Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:06,767Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:52:09,798Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:52:09,798Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:09,798Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2021-12-24T04:52:09,798Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:52:09,799Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:09,820Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:52:09,820Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:52:09,847Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:52:12,891Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-045200.594-8B4069F6EEBBE858\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:52:12,895Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045200.594-8B4069F6EEBBE858/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045200.594-8B4069F6EEBBE858/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:52:12,901Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045200.594-8B4069F6EEBBE858/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:52:12,973Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045200.594-8B4069F6EEBBE858/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:52:13,451Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:52:13,553Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:52:13,585Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:52:13,612Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:52:13,612Z [main] internal.KeyStoreHandler. - Loaded node identity key: DLJDvMAMhqy9hisaYsBSFvywZDreUTf22EjW9xA5MzSpJc, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:52:13,687Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:52:13,687Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:52:13,967Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-045213.705-B3E240DDFEAEEC7A\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:52:13,967Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045213.705-B3E240DDFEAEEC7A/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045213.705-B3E240DDFEAEEC7A/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:52:13,967Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045213.705-B3E240DDFEAEEC7A/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:52:14,040Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045213.705-B3E240DDFEAEEC7A/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:52:14,107Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:52:14,108Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:52:14,108Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:52:14,136Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:52:14,137Z [main] internal.KeyStoreHandler. - Loaded node identity key: DLEe7qkcWvhkSLDwEw1sWyEPooCdUHaRTaKnPbii2ziy75, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:52:14,149Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:52:14,150Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:53:38,950Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\contracts ... {}
+[INFO ] 2021-12-24T04:53:39,070Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:40,490Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:53:40,502Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:40,556Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:40,556Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:53:40,556Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:40,557Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,557Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:53:40,557Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,557Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:40,571Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:53:40,664Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:40,664Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:53:40,664Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:40,664Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:53:40,666Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:40,781Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,781Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:53:40,781Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,782Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:53:40,796Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,797Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:53:40,797Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:40,797Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:40,812Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:40,827Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:40,843Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:53:40,915Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:40,915Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:53:40,915Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:40,933Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:53:40,934Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:40,955Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:41,008Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:53:42,860Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:42,861Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:42,861Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':contracts' {}
+[INFO ] 2021-12-24T04:53:42,861Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:42,867Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:42,934Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:53:42,934Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:42,979Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:53:43,241Z [main] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\workflows ... {}
+[INFO ] 2021-12-24T04:53:43,242Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:43,254Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2021-12-24T04:53:43,257Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2021-12-24T04:53:43,306Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,321Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:43,352Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2021-12-24T04:53:43,402Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:43,402Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:53:43,402Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:43,402Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2021-12-24T04:53:43,402Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2021-12-24T04:53:43,450Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,455Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2021-12-24T04:53:43,466Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,466Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2021-12-24T04:53:43,498Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,498Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2021-12-24T04:53:43,521Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2021-12-24T04:53:43,521Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:43,521Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,536Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:43,559Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:53:43,617Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:43,617Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,618Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,633Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2021-12-24T04:53:43,677Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,678Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,678Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2021-12-24T04:53:43,678Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,678Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:53:43,693Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:53:43,710Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:53:43,710Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2021-12-24T04:53:43,710Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:53:43,723Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2021-12-24T04:53:43,726Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2021-12-24T04:53:43,740Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,740Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2021-12-24T04:53:43,755Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,755Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2021-12-24T04:53:43,756Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,756Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,756Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2021-12-24T04:53:43,799Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,800Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2021-12-24T04:53:43,802Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2021-12-24T04:53:43,802Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,802Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2021-12-24T04:53:43,802Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2021-12-24T04:53:43,814Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:43,814Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2021-12-24T04:53:43,815Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2021-12-24T04:53:43,815Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:43,830Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\rushikesh\OneDrive\Desktop\Metal Cordapp\.gradle {}
+[INFO ] 2021-12-24T04:53:43,830Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2021-12-24T04:53:43,865Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2021-12-24T04:53:46,704Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-045338.114-CE13D5E9B7AA6640\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:53:46,709Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045338.114-CE13D5E9B7AA6640/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045338.114-CE13D5E9B7AA6640/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:53:46,718Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045338.114-CE13D5E9B7AA6640/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:53:46,783Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045338.114-CE13D5E9B7AA6640/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:53:47,254Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:53:47,336Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:53:47,376Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:53:47,405Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:53:47,408Z [main] internal.KeyStoreHandler. - Loaded node identity key: DLHMCkjzLgUBRYru3JeB7zwWNHs4CbNRbMdYD9GNcHCjcW, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:53:47,475Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:53:47,476Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
+[INFO ] 2021-12-24T04:53:47,701Z [main] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build\mock-network\20211224-045347.489-5B4DD219239AA22A\nodes\0\cordapps] {}
+[INFO ] 2021-12-24T04:53:47,702Z [main] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045347.489-5B4DD219239AA22A/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045347.489-5B4DD219239AA22A/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2021-12-24T04:53:47,702Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045347.489-5B4DD219239AA22A/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2021-12-24T04:53:47,719Z [main] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/rushikesh/OneDrive/Desktop/Metal%20Cordapp/workflows/build/mock-network/20211224-045347.489-5B4DD219239AA22A/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2021-12-24T04:53:47,767Z [main] internal.InternalMockNetwork$MockNode. - MessagingService active change to: false {}
+[INFO ] 2021-12-24T04:53:47,770Z [main] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2021-12-24T04:53:47,776Z [main] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2021-12-24T04:53:47,792Z [main] internal.KeyStoreHandler. - Loaded trusted root certificate: DL7fwxLm5xbiMD8adUuYTsPZHAict46Ng4w6RNcySt5vAw, alias: cordarootca {}
+[INFO ] 2021-12-24T04:53:47,794Z [main] internal.KeyStoreHandler. - Loaded node identity key: DL9k5D7dGdU36nxXQVuxPBRFFpvpYZQHBA8pv6raaeAD51, alias: identity-private-key {}
+[INFO ] 2021-12-24T04:53:47,802Z [main] internal.NodeFlowManager. - Registered com.template.flows.IssueMetal to initiate com.template.flows.IssueMetalResponder (version 1) {}
+[INFO ] 2021-12-24T04:53:47,802Z [main] internal.NodeFlowManager. - Registered com.template.flows.Initiator to initiate com.template.flows.Responder (version 1) {}
